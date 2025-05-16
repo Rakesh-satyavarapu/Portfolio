@@ -9,7 +9,7 @@
 # testing
 /coverage
 
-/public/videos/MovieDB.mp4
+# /public/videos/MovieDB.mp4
 
 # production
 /build
