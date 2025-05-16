@@ -22,7 +22,7 @@ const About = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.6 }}
         >
-          Hi, I'm <strong>Rakesh</strong>, a dedicated <strong>Full Stack Developer</strong> 
+          Hi, I'm <strong>Rakesh</strong>, a dedicated <strong>Full Stack Developer </strong> 
           with a passion for building scalable and efficient web applications.
         </motion.p>
 
@@ -52,7 +52,7 @@ const About = () => {
         >
           <h3 className="h4 mb-3">Experience & Projects</h3>
           <ul className="list-unstyled text-start mx-auto fs-5" style={{ maxWidth: "700px" }}>
-            <li>📌 Built a Spam Email Classifier</li>
+            <li>📌 Built a Spam Email Classifier and Mail Summarizer</li>
             <li>📌 Developed a Weather App fetching real-time data</li>
             <li>📌 Created a Movie Database App with API integration</li>
             <li>📌 Developed an Application  on Mentor Connect – a hackthon project</li>
